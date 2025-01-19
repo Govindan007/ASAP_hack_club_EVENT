@@ -1,4 +1,4 @@
-# Fitness Tracking System
+# GYMMY
 
 A simple Python-based fitness tracking application developed by **Team Fractulus** that allows users to log exercises, set fitness goals (e.g., calories burned), and track their progress toward achieving their goals.
 
