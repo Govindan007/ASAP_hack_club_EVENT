@@ -4,7 +4,7 @@ A simple Python-based fitness tracking application developed by **Team Fractulus
 
 ## Team
 
-- **Mathew Joseph**
+- **Mathew Joseph T A**
 - **Govindan S**
 - **Deva Krishna**
 
