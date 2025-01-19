@@ -38,7 +38,7 @@ A simple Python-based fitness tracking application developed by **Team Fractulus
 2. Open a terminal and navigate to the directory where you saved the project.
 3. Run the script:
    ```bash
-   python fitness_tracking_system.py
+   python main.py
    ```
 
 4. Follow the on-screen prompts to interact with the system:
